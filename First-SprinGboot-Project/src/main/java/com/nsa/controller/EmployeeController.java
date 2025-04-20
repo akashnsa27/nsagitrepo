@@ -73,5 +73,7 @@ public class EmployeeController {
     @GetMapping("/{id}")
     public void getAll(@PathVariable("id") int id) {
         empService.deleteEmployeeById(id);
+        //write another logic
+
     }
 }
