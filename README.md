@@ -1,4 +1,10 @@
 # nsaitpoint-GitAndGithub-workshop
+
+**🔥GIT & GITHUB🔥**
+🎥Class Recording 
+Session 01 🎥: https://youtu.be/gce4Ubhe2Rg
+Session 02 🎥: https://youtu.be/nspgZof_P4s
+
 =====================================
 Source Code Repository Tools[GITHUB] 
 Version Control Softwares[GIT]
