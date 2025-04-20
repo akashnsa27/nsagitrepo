@@ -24,7 +24,7 @@ Advantages with Source code repository sofwares
 3) Repository server will provide monitored access
 
 				- Who
-			    - When
+			        - When
 				- Why
 				- What
 
