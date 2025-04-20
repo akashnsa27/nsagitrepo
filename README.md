@@ -1,1 +1,1 @@
-# nsagitrepo
+# nsaitpoint-gitandgithub-workshop
