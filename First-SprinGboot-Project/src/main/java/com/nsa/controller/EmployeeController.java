@@ -69,4 +69,9 @@ public class EmployeeController {
         empService.deleteEmployeeById(id);
     }
 
+    //sample for guthub workshop
+    @GetMapping("/{id}")
+    public void getAll(@PathVariable("id") int id) {
+        empService.deleteEmployeeById(id);
+    }
 }
